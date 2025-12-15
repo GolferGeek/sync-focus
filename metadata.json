@@ -1,0 +1,5 @@
+{
+  "name": "SyncFocus",
+  "description": "A collaborative Pomodoro and task management app. Features real-time team status visibility, daily task planning, and AI-powered task breakdown.",
+  "requestFramePermissions": []
+}
